@@ -1,3 +1,32 @@
+# 🌐 Rania Werfelli - Portfolio
+
+Live Website:
+🔗 https://vercel.com/raniawerfellis-projects
+
+GitHub:
+🔗 https://github.com/raniawerfelli
+
+## About Me
+Junior Full Stack & Flutter Developer passionate about building scalable web and mobile applications.
+
+## Technologies
+Programming Languages
+C, Python, PHP, Java, JavaScript, HTML5, CSS
+
+Frontend & CMS
+Angular, WordPress, HTML5, CSS, JavaScript
+
+Backend & Frameworks
+Spring Boot, Symfony, PHP
+
+Mobile Development
+Flutter
+
+Databases
+MySQL, MongoDB, Microsoft SQL Server
+
+Testing & QA
+JUnit, Selenium, Lighthouse
 # Portfolio
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.1.5.
